@@ -1,2 +1,2 @@
-# signlang
-sign language detector with voice
+# signlangdetection
+sign language detector with voice feature
